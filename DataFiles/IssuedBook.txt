@@ -1,0 +1,12 @@
+raxit;1234;TestBook1;30-10-2018;09-12-2018;returned
+raxit;1234;TestBook1;30-10-2018;09-12-2018;returned
+raxit;1234;TestBook1;03-11-2018;13-12-2018;returned
+raxit;1234;TestBook1;07-12-2018;16-01-2019;returned
+raxit;1234;TestBook1;07-12-2018;16-01-2019;returned
+raxit;1234;TestBook1;10-12-2018;19-01-2019;returned
+raxit;56786;datastructures;10-12-2018;19-01-2019;returned
+raxit;1234;TestBook1;11-12-2018;20-01-2019;returned
+raxit;1234;TestBook1;11-12-2018;20-01-2019;checked-out
+raxit;9088775;softwaredesign;11-12-2018;20-01-2019;checked-out
+raxit;56786;datastructures;11-12-2018;20-01-2019;checked-out
+eha;1234;TestBook1;14-12-2018;23-01-2019;checked-out
